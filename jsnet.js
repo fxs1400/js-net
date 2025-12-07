@@ -14,4 +14,3 @@ namet = data;
  return name
  return from
 }
-select("Fxs" , "fxs1400");
